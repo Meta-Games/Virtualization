@@ -322,7 +322,8 @@ MonoBehaviour:
     height: 268
   m_SearchFilter:
     m_NameFilter: 
-    m_ClassNames: []
+    m_ClassNames:
+    - Material
     m_AssetLabels: []
     m_AssetBundleNames: []
     m_VersionControlStates: []
@@ -331,20 +332,19 @@ MonoBehaviour:
     m_ScenePaths: []
     m_ShowAllHits: 0
     m_SearchArea: 0
-    m_Folders:
-    - Assets
+    m_Folders: []
   m_ViewMode: 1
   m_StartGridSize: 64
   m_LastFolders:
-  - Assets
+  - Assets/SteamVR
   m_LastFoldersGridSize: -1
-  m_LastProjectPath: D:\Senior Design Unity\Vive Test
+  m_LastProjectPath: C:\Users\Dustin\Documents\GitHub\Virtualization\Vive Test
   m_IsLocked: 0
   m_FolderTreeState:
     scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: 14280000
-    m_LastClickedID: 10260
-    m_ExpandedIDs: 0000000014280000fe28000000ca9a3bffffff7f
+    m_SelectedIDs: 01ca9a3b
+    m_LastClickedID: 1000000001
+    m_ExpandedIDs: 00000000382a0000342b00005c2d00005c2f0000d82f000000ca9a3bffffff7f
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -372,7 +372,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 0000000014280000fe280000
+    m_ExpandedIDs: 00000000382a0000ba2b0000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -488,9 +488,9 @@ MonoBehaviour:
     height: 421
   m_TreeViewState:
     scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: 
-    m_LastClickedID: 0
-    m_ExpandedIDs: a6fbffff00000000
+    m_SelectedIDs: ce6f0000
+    m_LastClickedID: 28622
+    m_ExpandedIDs: f05afaffb85bfaff705ffaff7a5ffaff4a78faff1279faffca7cfaffd47cfaffe601fbff6e02fbff2606fbff3006fbff8096fbff0897fbffc09afbffca9afbffdea7fbff66a8fbff1cacfbff26acfbffb2b1fbff3ab2fbfff2b5fbfffcb5fbff9ac8fbff22c9fbffdaccfbffe4ccfbff1c38fcffa438fcff5c3cfcff663cfcffccdefcff54dffcff14e3fcff1ee3fcfff601fdff7e02fdff4206fdff4c06fdff5e2ffdffe62ffdffa833fdffb233fdff2cacfdff60d8fdff5aedfdffe0edfdffaaf1fdffb4f1fdffac37feff3238fefffa3bfeff043cfeff4441feffca41feff9445feff9e45feff4aa8feffcaa8feff96acfeffa0acfeff1cf0feff9ef0feff6ef4feff78f4fefff451ffff7252ffff4256ffff4c56ffff3a85ffffba85ffff9089ffff9e89ffff66edffffe6edffffb8f1ffffc2f1ffffa0fbffff00000000aa350000c0380000f6400000ca460000664d0000724d00008e4d0000e8500000c8530000d256000020570000366800003a6800004a6800005a680000a06b0000b06b0000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -540,14 +540,14 @@ MonoBehaviour:
     width: 761
     height: 421
   m_SceneLighting: 1
-  lastFramingTime: 527.5641000012641
+  lastFramingTime: 5115.682080502391
   m_2DMode: 0
   m_isRotationLocked: 0
   m_AudioPlay: 0
   m_Position:
-    m_Target: {x: -10.158247, y: 19.660427, z: 0.66307354}
+    m_Target: {x: -0, y: 0, z: 0}
     speed: 2
-    m_Value: {x: -10.158247, y: 19.660427, z: 0.66307354}
+    m_Value: {x: 0, y: 0, z: 0}
   m_RenderMode: 0
   m_ValidateTrueMetals: 0
   m_SceneViewState:
@@ -570,19 +570,19 @@ MonoBehaviour:
       speed: 2
       m_Value: 0
   m_Rotation:
-    m_Target: {x: 0.0145017905, y: 0.71307874, z: 0.014756619, w: -0.7007786}
+    m_Target: {x: -0.25450993, y: 0.6964761, z: -0.2938982, w: -0.60313326}
     speed: 2
-    m_Value: {x: 0.0145017905, y: 0.71307874, z: 0.014756619, w: -0.7007786}
+    m_Value: {x: -0.25450993, y: 0.6964761, z: -0.2938982, w: -0.60313326}
   m_Size:
-    m_Target: 68.45782
+    m_Target: 2.8054829
     speed: 2
-    m_Value: 68.45782
+    m_Value: 2.8054829
   m_Ortho:
     m_Target: 0
     speed: 2
     m_Value: 0
   m_ShowGlobalGrid: 1
-  m_LastSceneViewRotation: {x: -0.08717229, y: 0.89959055, z: -0.21045254, w: -0.3726226}
+  m_LastSceneViewRotation: {x: -0.13066843, y: 0.70172185, z: -0.13336112, w: -0.68755156}
   m_LastSceneViewOrtho: 0
   m_ReplacementShader: {fileID: 0}
   m_ReplacementString: 
