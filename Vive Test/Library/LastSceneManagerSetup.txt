@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/capsule.unity
+- path: Assets/LinkTestZone.unity
   isLoaded: 1
   isActive: 1
