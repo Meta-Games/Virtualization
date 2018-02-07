@@ -5,9 +5,12 @@ EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Scenes:
-  - enabled: 1
+  - enabled: 0
     path: Assets/capsule.unity
     guid: 7af5ae4a4a4b99443af3d4332b49ed33
-  - enabled: 1
+  - enabled: 0
     path: Assets/cubeandball.unity
     guid: f7764a1cae1241147a4f25d76891e19c
+  - enabled: 1
+    path: Assets/TestArea.unity
+    guid: 80f62d204bf8cdd4d929eb89d8328c9e
