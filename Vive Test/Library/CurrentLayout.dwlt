@@ -20,7 +20,7 @@ MonoBehaviour:
   m_ShowMode: 4
   m_Title: 
   m_RootView: {fileID: 6}
-  m_MinSize: {x: 950, y: 300}
+  m_MinSize: {x: 950, y: 542}
   m_MaxSize: {x: 10000, y: 10000}
 --- !u!114 &2
 MonoBehaviour:
@@ -40,12 +40,21 @@ MonoBehaviour:
     serializedVersion: 2
     x: 0
     y: 30
+<<<<<<< HEAD
     width: 1680
     height: 917
   m_MinSize: {x: 683, y: 492}
   m_MaxSize: {x: 14004, y: 14042}
   vertical: 0
-  controlID: 119
+  controlID: 51
+=======
+    width: 1920
+    height: 947
+  m_MinSize: {x: 679, y: 492}
+  m_MaxSize: {x: 14002, y: 14042}
+  vertical: 0
+  controlID: 120
+>>>>>>> parent of 1f98054... UI Testing (NEED VIVE)
 --- !u!114 &3
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -62,10 +71,15 @@ MonoBehaviour:
     serializedVersion: 2
     x: 1339
     y: 0
+<<<<<<< HEAD
     width: 341
     height: 917
-  m_MinSize: {x: 277, y: 71}
-  m_MaxSize: {x: 4002, y: 4021}
+=======
+    width: 557
+    height: 947
+>>>>>>> parent of 1f98054... UI Testing (NEED VIVE)
+  m_MinSize: {x: 275, y: 50}
+  m_MaxSize: {x: 4000, y: 4000}
   m_ActualView: {fileID: 14}
   m_Panes:
   - {fileID: 14}
@@ -87,10 +101,17 @@ MonoBehaviour:
     serializedVersion: 2
     x: 0
     y: 0
+<<<<<<< HEAD
     width: 331
     height: 555
+  m_MinSize: {x: 202, y: 221}
+  m_MaxSize: {x: 4002, y: 4021}
+=======
+    width: 407
+    height: 572
   m_MinSize: {x: 200, y: 200}
   m_MaxSize: {x: 4000, y: 4000}
+>>>>>>> parent of 1f98054... UI Testing (NEED VIVE)
   m_ActualView: {fileID: 15}
   m_Panes:
   - {fileID: 15}
@@ -111,9 +132,15 @@ MonoBehaviour:
   m_Position:
     serializedVersion: 2
     x: 0
+<<<<<<< HEAD
     y: 555
     width: 1339
     height: 362
+=======
+    y: 572
+    width: 1363
+    height: 375
+>>>>>>> parent of 1f98054... UI Testing (NEED VIVE)
   m_MinSize: {x: 232, y: 271}
   m_MaxSize: {x: 10002, y: 10021}
   m_ActualView: {fileID: 13}
@@ -121,7 +148,11 @@ MonoBehaviour:
   - {fileID: 13}
   - {fileID: 18}
   m_Selected: 0
+<<<<<<< HEAD
   m_LastSelected: 0
+=======
+  m_LastSelected: 1
+>>>>>>> parent of 1f98054... UI Testing (NEED VIVE)
 --- !u!114 &6
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -204,12 +235,21 @@ MonoBehaviour:
     serializedVersion: 2
     x: 0
     y: 0
+<<<<<<< HEAD
     width: 1339
     height: 917
   m_MinSize: {x: 406, y: 492}
   m_MaxSize: {x: 10002, y: 14042}
   vertical: 1
   controlID: 10
+=======
+    width: 1363
+    height: 947
+  m_MinSize: {x: 404, y: 492}
+  m_MaxSize: {x: 10002, y: 14042}
+  vertical: 1
+  controlID: 55
+>>>>>>> parent of 1f98054... UI Testing (NEED VIVE)
 --- !u!114 &10
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -228,12 +268,21 @@ MonoBehaviour:
     serializedVersion: 2
     x: 0
     y: 0
+<<<<<<< HEAD
     width: 1339
     height: 555
   m_MinSize: {x: 406, y: 221}
   m_MaxSize: {x: 8006, y: 4021}
   vertical: 0
   controlID: 11
+=======
+    width: 1363
+    height: 572
+  m_MinSize: {x: 404, y: 221}
+  m_MaxSize: {x: 8004, y: 4021}
+  vertical: 0
+  controlID: 56
+>>>>>>> parent of 1f98054... UI Testing (NEED VIVE)
 --- !u!114 &11
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -252,8 +301,8 @@ MonoBehaviour:
     y: 0
     width: 1008
     height: 555
-  m_MinSize: {x: 204, y: 221}
-  m_MaxSize: {x: 4004, y: 4021}
+  m_MinSize: {x: 200, y: 200}
+  m_MaxSize: {x: 4000, y: 4000}
   m_ActualView: {fileID: 16}
   m_Panes:
   - {fileID: 16}
@@ -327,19 +376,26 @@ MonoBehaviour:
     m_ShowAllHits: 0
     m_SearchArea: 0
     m_Folders:
-    - Assets
+    - Assets/VRTK/SDK/Simulator
   m_ViewMode: 1
   m_StartGridSize: 64
   m_LastFolders:
-  - Assets
+  - Assets/VRTK/SDK/Simulator
   m_LastFoldersGridSize: -1
   m_LastProjectPath: C:\Users\student\Documents\GitHub\Virtualization\Vive Test
   m_IsLocked: 0
   m_FolderTreeState:
+<<<<<<< HEAD
     scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: 7a2a0000
-    m_LastClickedID: 10874
-    m_ExpandedIDs: 000000007a2a0000702b00002e2c0000982d0000362e00002c30000000ca9a3bffffff7f
+    m_SelectedIDs: 902a0000
+    m_LastClickedID: 10896
+    m_ExpandedIDs: 00000000902a0000862b0000442c0000ae2d00004230000000ca9a3bffffff7f
+=======
+    scrollPos: {x: 0, y: 35}
+    m_SelectedIDs: 88370000
+    m_LastClickedID: 14216
+    m_ExpandedIDs: 000000008c3200003a340000a4350000403600003638000000ca9a3bffffff7f
+>>>>>>> parent of 1f98054... UI Testing (NEED VIVE)
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -367,7 +423,11 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 000000007a2a00002e2c0000982d0000362e00002c300000
+<<<<<<< HEAD
+    m_ExpandedIDs: 00000000902a0000862b0000442c0000ae2d000042300000
+=======
+    m_ExpandedIDs: 000000008c32000082330000a4350000b637000036380000
+>>>>>>> parent of 1f98054... UI Testing (NEED VIVE)
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -485,25 +545,31 @@ MonoBehaviour:
   m_PersistentViewDataDictionary: {fileID: 0}
   m_TreeViewState:
     scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: 342e0000
+<<<<<<< HEAD
+    m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 56c8feff2ccdfeffb6cdfefffed0feff54e9feffdee9feff26edfeff3802ffff0603ffff4e06ffff1e0effffa80effff3212ffff3e12ffff3414ffff9215fffff61effff9a25ffffb8a6ffff54afffff88b4fffffebdffff3adfffff28e7ffffe8e9ffffb8f0ffff28f4ffff44f6ffffc2f8ffff90fbffff00000000323a0000883a0000c2570000ee5800005a6a0000b06d0000006e0000
+    m_ExpandedIDs: 0ee6ffffd2e6ffff58e7ffff1ce8ffffe0e8ffff88f8ffff88fbffff00000000
+=======
+    m_SelectedIDs: 6c380000
+    m_LastClickedID: 14444
+    m_ExpandedIDs: f4f9ffff00000000ec380000f4380000
+>>>>>>> parent of 1f98054... UI Testing (NEED VIVE)
     m_RenameOverlay:
       m_UserAcceptedRename: 0
-      m_Name: RightController
-      m_OriginalName: RightController
+      m_Name: 
+      m_OriginalName: 
       m_EditFieldRect:
         serializedVersion: 2
         x: 0
         y: 0
         width: 0
         height: 0
-      m_UserData: 22426
+      m_UserData: 0
       m_IsWaitingForDelay: 0
       m_IsRenaming: 0
-      m_OriginalEventType: 0
+      m_OriginalEventType: 11
       m_IsRenamingFilename: 0
-      m_ClientGUIView: {fileID: 4}
+      m_ClientGUIView: {fileID: 0}
     m_SearchString: 
   m_ExpandedScenes:
   - capsule
@@ -538,14 +604,24 @@ MonoBehaviour:
     height: 534
   m_PersistentViewDataDictionary: {fileID: 0}
   m_SceneLighting: 1
-  lastFramingTime: 776.7528020073229
+<<<<<<< HEAD
+  lastFramingTime: 0
+=======
+  lastFramingTime: 3964.7733506313325
+>>>>>>> parent of 1f98054... UI Testing (NEED VIVE)
   m_2DMode: 0
   m_isRotationLocked: 0
   m_AudioPlay: 0
   m_Position:
-    m_Target: {x: 0, y: 0, z: 0}
+<<<<<<< HEAD
+    m_Target: {x: 7.504592, y: 1.360506, z: 15.780566}
     speed: 2
-    m_Value: {x: 0, y: 0, z: 0}
+    m_Value: {x: 7.504592, y: 1.360506, z: 15.780566}
+=======
+    m_Target: {x: 1.1727605, y: 2.8224468, z: 3.5215135}
+    speed: 2
+    m_Value: {x: 1.1727605, y: 2.8224468, z: 3.5215135}
+>>>>>>> parent of 1f98054... UI Testing (NEED VIVE)
   m_RenderMode: 0
   m_ValidateTrueMetals: 0
   m_SceneViewState:
@@ -569,13 +645,23 @@ MonoBehaviour:
       speed: 2
       m_Value: 0
   m_Rotation:
-    m_Target: {x: 0.15056473, y: -0.64473474, z: 0.13157432, w: 0.73779106}
+<<<<<<< HEAD
+    m_Target: {x: 0.15538058, y: 0.06070735, z: -0.009567403, w: 0.9859412}
     speed: 2
-    m_Value: {x: 0.15056473, y: -0.64473474, z: 0.13157432, w: 0.73779106}
+    m_Value: {x: 0.15538058, y: 0.06070735, z: -0.009567403, w: 0.9859412}
   m_Size:
-    m_Target: 22
+    m_Target: 10
     speed: 2
-    m_Value: 22
+    m_Value: 10
+=======
+    m_Target: {x: -0.039919276, y: 0.33027908, z: -0.013981862, w: -0.94293517}
+    speed: 2
+    m_Value: {x: -0.039919276, y: 0.33027908, z: -0.013981862, w: -0.94293517}
+  m_Size:
+    m_Target: 11.367147
+    speed: 2
+    m_Value: 11.367147
+>>>>>>> parent of 1f98054... UI Testing (NEED VIVE)
   m_Ortho:
     m_Target: 0
     speed: 2
@@ -609,10 +695,17 @@ MonoBehaviour:
   m_DepthBufferBits: 32
   m_Pos:
     serializedVersion: 2
-    x: 333
-    y: 92
-    width: 1004
-    height: 534
+<<<<<<< HEAD
+    x: 507
+    y: 94
+    width: 1532
+    height: 790
+=======
+    x: 358
+    y: 100
+    width: 833
+    height: 533
+>>>>>>> parent of 1f98054... UI Testing (NEED VIVE)
   m_PersistentViewDataDictionary: {fileID: 0}
   m_MaximizeOnPlay: 0
   m_Gizmos: 0
@@ -622,10 +715,17 @@ MonoBehaviour:
   m_ZoomArea:
     m_HRangeLocked: 0
     m_VRangeLocked: 0
-    m_HBaseRangeMin: -502
-    m_HBaseRangeMax: 502
-    m_VBaseRangeMin: -258.5
-    m_VBaseRangeMax: 258.5
+<<<<<<< HEAD
+    m_HBaseRangeMin: -766
+    m_HBaseRangeMax: 766
+    m_VBaseRangeMin: -386.5
+    m_VBaseRangeMax: 386.5
+=======
+    m_HBaseRangeMin: -416.5
+    m_HBaseRangeMax: 416.5
+    m_VBaseRangeMin: -258
+    m_VBaseRangeMax: 258
+>>>>>>> parent of 1f98054... UI Testing (NEED VIVE)
     m_HAllowExceedBaseRangeMin: 1
     m_HAllowExceedBaseRangeMax: 1
     m_VAllowExceedBaseRangeMin: 1
@@ -634,7 +734,7 @@ MonoBehaviour:
     m_HSlider: 0
     m_VSlider: 0
     m_IgnoreScrollWheelUntilClicked: 0
-    m_EnableMouseInput: 0
+    m_EnableMouseInput: 1
     m_EnableSliderZoom: 0
     m_UniformScale: 1
     m_UpDirection: 1
@@ -642,25 +742,43 @@ MonoBehaviour:
       serializedVersion: 2
       x: 0
       y: 17
-      width: 1004
-      height: 517
+<<<<<<< HEAD
+      width: 1532
+      height: 773
     m_Scale: {x: 1, y: 1}
-    m_Translation: {x: 502, y: 258.5}
+    m_Translation: {x: 766, y: 386.5}
+=======
+      width: 833
+      height: 516
+    m_Scale: {x: 1, y: 1}
+    m_Translation: {x: 416.5, y: 258}
+>>>>>>> parent of 1f98054... UI Testing (NEED VIVE)
     m_MarginLeft: 0
     m_MarginRight: 0
     m_MarginTop: 0
     m_MarginBottom: 0
     m_LastShownAreaInsideMargins:
       serializedVersion: 2
-      x: -502
-      y: -258.5
-      width: 1004
-      height: 517
+<<<<<<< HEAD
+      x: -766
+      y: -386.5
+      width: 1532
+      height: 773
+=======
+      x: -416.5
+      y: -258
+      width: 833
+      height: 516
+>>>>>>> parent of 1f98054... UI Testing (NEED VIVE)
     m_MinimalGUI: 1
   m_defaultScale: 1
   m_TargetTexture: {fileID: 0}
   m_CurrentColorSpace: 1
-  m_LastWindowPixelSize: {x: 1004, y: 534}
+<<<<<<< HEAD
+  m_LastWindowPixelSize: {x: 1532, y: 790}
+=======
+  m_LastWindowPixelSize: {x: 833, y: 533}
+>>>>>>> parent of 1f98054... UI Testing (NEED VIVE)
   m_ClearInEditMode: 1
   m_NoCameraWarning: 1
   m_LowResolutionForAspectRatios: 01000000000100000100
@@ -686,8 +804,15 @@ MonoBehaviour:
   m_DepthBufferBits: 0
   m_Pos:
     serializedVersion: 2
+<<<<<<< HEAD
     x: 8
     y: 718
     width: 1366
     height: 308
+=======
+    x: 0
+    y: 646
+    width: 1191
+    height: 342
+>>>>>>> parent of 1f98054... UI Testing (NEED VIVE)
   m_PersistentViewDataDictionary: {fileID: 0}
