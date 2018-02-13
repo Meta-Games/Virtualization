@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/ResetButton.unity
+- path: Assets/_Scenes/WebCamTest.unity
   isLoaded: 1
   isActive: 1
